@@ -1,0 +1,53 @@
+{
+  "basics": {
+    "name": "Audrey Nash",
+    "label": "PhD Student",
+    "picture": "img/Cropped_Image_edited.png",
+    "email": "aanash@hawaii.edu",
+    "phone": "828-772-5193",
+    "website": "https://audreynash.github.io",
+    "summary": "I am a PhD student in Atmospheric Sciences at the University of Hawaii at Manoa. My current research focuses on the interseasonal variability of large-scale oscillations and their seasonal to sub-seasonal variations in the Central Pacific, particularly the Hawaiian Islands. More specifically, I am utilizing observational and reanalysis data to explore the Madden-Julian Oscillation (MJO) and investigating how it affects the Hawaiian archipelago.",
+    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "audreynash", "url": "http://github.com/audreynash" },
+      { "network": "linkedin", "username": "audreynash", "url": "https://www.linkedin.com/in/audrey-nash-64103518b" },
+    ]
+  },
+  "interests": [
+    { "name": "Seasonal to Subseasonal Atmospheric Variability" },
+    { "name": "Large-Scale Oscillations" },
+    { "name": "Cloud Dynamics" },
+    { "name": "Tropical Cyclones" },
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "Matlab", "ArcGIS"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub/GitPod"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland, College Park, MD",
+      "area": "Atmospheric Science",
+      "studyType": "B.S.",
+      "startDate": "2016-09-01",
+      "endDate": "2020-05-10",
+    }, 
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Atmospheric Science",
+      "studyType": "M.S.",
+      "startDate": "2020-09-01",
+      "endDate": "2022-05-10",
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
